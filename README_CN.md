@@ -61,6 +61,7 @@
 - [📖 学习与参考](#-学习与参考)
 - [🗺️ 相关 Awesome 列表](#️-相关-awesome-列表)
 - [🤝 如何贡献](#-如何贡献)
+- [🙏 致谢](#-致谢)
 
 ---
 
@@ -510,6 +511,20 @@ Vercel、Cloudflare 把生产形态的套件开源了 —— 拿来 fork，不�
 6. 新增条目请同时改 **[README.md](README.md)（英文）** 和 **[README_CN.md](README_CN.md)（中文）**。
 
 **维护：** 在 [EthanYolo01/awesome-free-dev-tools](https://github.com/EthanYolo01/awesome-free-dev-tools) 开 Issue。
+
+---
+
+## 🙏 致谢
+
+<div align="center">
+
+感谢 **[LINUX DO](https://linux.do)** 社区的讨论与校对，这份清单能一直打磨，离不开那里多出来的几双眼睛。
+
+<a href="https://linux.do">
+  <img src="assets/linuxdo.png" alt="LINUX DO" height="48">
+</a>
+
+</div>
 
 ---
 

@@ -61,6 +61,7 @@
 - [📖 Learning Resources](#-learning-resources)
 - [🗺️ Related Awesome Lists](#️-related-awesome-lists)
 - [🤝 Contributing](#-contributing)
+- [🙏 Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -510,6 +511,20 @@ Contributions are welcome. This list prioritizes **working links + a real “why
 6. If you add an entry, please update **both** [README.md](README.md) (English) and [README_CN.md](README_CN.md) (Chinese).
 
 **Maintainer:** open an issue on [EthanYolo01/awesome-free-dev-tools](https://github.com/EthanYolo01/awesome-free-dev-tools).
+
+---
+
+## 🙏 Acknowledgements
+
+<div align="center">
+
+Thanks to the **[LINUX DO](https://linux.do)** community — the threads, second opinions, and extra pairs of eyes that keep this list honest.
+
+<a href="https://linux.do">
+  <img src="assets/linuxdo.png" alt="LINUX DO" height="48">
+</a>
+
+</div>
 
 ---
 
