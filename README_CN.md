@@ -372,6 +372,7 @@ Vercel、Cloudflare 把生产形态的套件开源了 —— 拿来 fork，不�
 | **Oxlint** | [oxc.rs](https://oxc.rs) | 同样 Rust，极致速度。适合当前置高速预检 |
 | ⭐ **Playwright** | [playwright.dev](https://playwright.dev) · [microsoft/playwright](https://github.com/microsoft/playwright) | 微软开源 E2E + 网页抓取自动化。Chromium / Firefox / WebKit。Agent 侧同一套引擎走 MCP |
 | **Vitest** | [vitest.dev](https://vitest.dev) | 和 Vite 一体的单测，跑得快 |
+| **Agent QA** | [vostride/agent-qa](https://github.com/vostride/agent-qa) | 面向用自然语言编写 Web、Android 和 iOS 回归测试的团队，跨运行复用执行记忆。采用 FSL-1.1-ALv2 源码可用许可，许可范围内使用无需软件费用；配置的服务提供商可能另收费 |
 
 ---
 

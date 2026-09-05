@@ -372,6 +372,7 @@ Vercel and Cloudflare open-sourced production-shaped kits — fork them; they ar
 | **Oxlint** | [oxc.rs](https://oxc.rs) | Rust, speed-first. Use as a fast pre-lint in front of ESLint |
 | ⭐ **Playwright** | [playwright.dev](https://playwright.dev) · [microsoft/playwright](https://github.com/microsoft/playwright) | Microsoft E2E + web scraping automation. Chromium / Firefox / WebKit. Same engine agents use via MCP |
 | **Vitest** | [vitest.dev](https://vitest.dev) | Unit tests that feel like Vite |
+| **Agent QA** | [vostride/agent-qa](https://github.com/vostride/agent-qa) | For teams writing web, Android, and iOS regression checks in natural language; reuses execution memory across runs. Source-available under FSL-1.1-ALv2 with no package fee for permitted use; configured provider costs vary |
 
 ---
 
