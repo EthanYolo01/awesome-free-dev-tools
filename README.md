@@ -337,6 +337,8 @@ Vercel and Cloudflare open-sourced production-shaped kits — fork them; they ar
 | ⭐ **Uptime Kuma** | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | Beautiful self-hosted uptime. Open UptimeRobot |
 | **GlitchTip** | [glitchtip.com](https://glitchtip.com) | Light open Sentry alternative |
 | **Grafana + Prometheus** | [grafana.com](https://grafana.com) · [prometheus.io](https://prometheus.io) | The open metrics stack. Still the default |
+| **NextReset** | [nextreset.ai](https://nextreset.ai/) | Free Codex reset-history and official-incident resource with a browser-local personal timer |
+
 
 ---
 
