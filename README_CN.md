@@ -279,6 +279,7 @@ Vercel、Cloudflare 把生产形态的套件开源了 —— 拿来 fork，不�
 | **bat** | [sharkdp/bat](https://github.com/sharkdp/bat) | 带高亮和 Git 的 `cat` |
 | **eza** | [eza.rocks](https://eza.rocks) | 现代化的 `ls` |
 | **jq** | [jqlang.github.io/jq](https://jqlang.github.io/jq/) | 命令行处理 JSON。没有讨价还价 |
+| **Flisk** | [flisk.sh](https://flisk.sh) | 一条命令从空目录到整套技术栈跑起来 |
 
 ---
 

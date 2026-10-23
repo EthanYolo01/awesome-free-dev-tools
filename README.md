@@ -279,6 +279,7 @@ Vercel and Cloudflare open-sourced production-shaped kits — fork them; they ar
 | **bat** | [sharkdp/bat](https://github.com/sharkdp/bat) | `cat` with syntax highlight + Git |
 | **eza** | [eza.rocks](https://eza.rocks) | Modern `ls` |
 | **jq** | [jqlang.github.io/jq](https://jqlang.github.io/jq/) | JSON on the CLI. Non-negotiable |
+| **Flisk** | [flisk.sh](https://flisk.sh) | One command from an empty folder to a running full stack |
 
 ---
 
