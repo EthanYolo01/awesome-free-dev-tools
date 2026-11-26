@@ -335,6 +335,7 @@ Vercel、Cloudflare 把生产形态的套件开源了 —— 拿来 fork，不�
 | 项目 | GitHub / 网站 | 为什么在这里 |
 |---|---|---|
 | ⭐ **Uptime Kuma** | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 好看的自托管可用性监控。开源版 UptimeRobot |
+| **SiteWatcher** | [NikKurkov/sitewatcher](https://github.com/NikKurkov/sitewatcher) | 自托管网站监控，记录可用率和响应时间，并提醒 TLS 证书及域名到期 |
 | **GlitchTip** | [glitchtip.com](https://glitchtip.com) | 轻量开源 Sentry 替代 |
 | **Grafana + Prometheus** | [grafana.com](https://grafana.com) · [prometheus.io](https://prometheus.io) | 开源指标栈。到现在仍是默认组合 |
 
